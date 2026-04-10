@@ -19,7 +19,7 @@
 <li>⚡ **Fun fact:** ...</li>
 </ul>
 
-[<img src="image.png" width="100" height="60">](https://www.linkedin.com/in/mariidenizz/)
+[<img src="image.png" width="100" height="75">](https://www.linkedin.com/in/mariidenizz/)
 
   </body>
 </html>
