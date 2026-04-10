@@ -19,17 +19,7 @@
 <li>⚡ **Fun fact:** ...</li>
 </ul>
 
-
-<div style= "display: flex; justify-content: left; gap: 10px;">
-<button style="background-color: #36499e; padding: 10px; text-align: center; font-family: monospace; width: 100px; height: 40px">
-    <a href="https://www.linkedin.com/in/mariidenizz/" style="color: #ffffff; text-decoration: none">LinkedIn</a>
-</button>
-
-<button style="background-color: #000000; padding: 10px; text-align: center; font-family: monospace; width: 100px; height: 40px">
-    <a href="www.linkedin.com/in/mariidenizz" style="color: #ffffff; text-decoration: none">X</a>
-</button>
-</div>
-
+[<img src="image.png" width="100" height="60">](https://www.linkedin.com/in/mariidenizz/)
 
   </body>
 </html>
