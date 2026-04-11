@@ -1,9 +1,9 @@
 ## Hello! <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="25" height="25" />
 
-I am Mariana Martinez an aspiring fullstack developer with a passion for race cars and gaming. 
+I am Mariana Martinez an aspiring full-stack developer with a passion for race cars and gaming. 
 
-- 😄 Pronouns: She/Her/Ella
-- 🗣️ Languages: Spanish (Native or billingual proficiency), English (Native or billingual proficiency)
+- 😄 **Pronouns:** She/Her/Ella
+- 🗣️ **Languages:** Spanish (Native or billingual proficiency), English (Native or billingual proficiency)
 
 ### More about me: 🙋‍♀️
 - 🏫 I'm currently pursuing a BS in Computer Science at the College of Arts and Sciences of Loyola University Chicago.
