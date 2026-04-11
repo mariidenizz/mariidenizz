@@ -15,9 +15,6 @@ I am Mariana Martinez an aspiring fullstack developer with a passion for race ca
 ### Languages and tools I am familiar with: 🪛
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src = "https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=CSS&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white">
 
-### Take a look at my work: 👀
-<a href= "https://github.com/mariidenizz"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> </a>
-
 ### Connect with me: 📩
 <a href= "mailto: martinezzdenizz@gmail.com"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a> <a href= "https://www.linkedin.com/in/mariidenizz/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"> </a> <a href= "https://discord.com/users/mariidenizz"><img src = "https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=Discord&logoColor=white"> </a>
 
