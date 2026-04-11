@@ -7,8 +7,8 @@ I am Mariana Martinez an aspiring fullstack developer with a passion for race ca
 
 ### More about me: 🙋‍♀️
 - 🏫 I'm currently pursuing a BS in Computer Science at the College of Arts and Sciences of Loyola University Chicago.
-- 📜 I will be graduating in May 2028.
-- 🔭 I'm currently working at ...
+- 🎓 I will be graduating in May 2028.
+- ⚙️ I'm currently working at ...
 - 🌱 I've previously worked at [Grubhub](https://www.Grubhub.com) and at [Google](https://www.google.com/) through [CodeNation](https://codenation.org/) as a Fellow/Student in Chicago Illinois.
 - **⚠️ I am currently seeking internship opportunities for Fall 2026, Spring 2027, & Summer 2027!**
 
